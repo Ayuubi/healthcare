@@ -121,9 +121,7 @@
    "hide_days": 1,
    "hide_seconds": 1,
    "label": "Occupancy Status",
-   "no_copy": 1,
-   "options": "Vacant\nOccupied",
-   "read_only": 1
+   "options": "Vacant\nOccupied"
   },
   {
    "fieldname": "column_break_9",
@@ -152,7 +150,6 @@
    "in_standard_filter": 1,
    "label": "Company",
    "options": "Company",
-   "remember_last_selected_value": 1,
    "reqd": 1,
    "search_index": 1
   },
@@ -242,7 +239,7 @@
  ],
  "is_tree": 1,
  "links": [],
- "modified": "2023-03-17 12:01:33.459553",
+ "modified": "2026-05-05 15:16:36.911872",
  "modified_by": "Administrator",
  "module": "Healthcare",
  "name": "Healthcare Service Unit",
